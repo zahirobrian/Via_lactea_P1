@@ -65,6 +65,9 @@ Cada Activity utiliza el método `onCreate()` para:
 ![Planetas](images/planetas.png)
 ![Lunas](images/lunas.png)
 
-### Capturas Hello Android 
+### Capturas Hello Android Brian
 ![Hello Android](images/hello_android.png) 
+
+### Capturas Hello Android Karla
+![Hello Android](images/hello_android_karla.png) 
 
