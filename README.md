@@ -1,3 +1,7 @@
+# Integrantes
+1. Bernal Ramirez Brian Ricardo
+2. Saavedra Mata Karla Sofia 
+
 # 🌌 Explorador de la Vía Láctea
 
 Aplicación Android desarrollada en Kotlin que demuestra una navegación jerárquica utilizando múltiples Activities.  
